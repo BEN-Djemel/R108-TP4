@@ -18,7 +18,7 @@
 <p>Ecrire le script somme qui affiche le nombre de paramètres reçus et leur somme. On utilisera ici la structure while et la commande expr.</p>
 
 ```
-./exo3 12 3 4
+./ex3 12 3 4
 Le nombre de paramètres est : 3
 La somme est : 19
 ```
@@ -28,7 +28,7 @@ La somme est : 19
 <p>Ecrire un script en shell unix qui vérifie qu'une suite d'entiers donnée en paramètre est croissante.</p>
 
 ```
-$ ./exo4 1 12 3
+$ ./ex4 1 12 3
 La suite n'est pas croissante
 ```
 
@@ -37,7 +37,7 @@ La suite n'est pas croissante
 <p>Ecrire un script Shell qui permet de prendre deux nombres en arguments et affiche en utilisant une boucle while tous les nombres entre la valeur intiale et la valeur finale, séparés par un espace.</p>
 
 ```
-$ ./exo5 5 9
+$ ./ex5 5 9
 5 6 7 8 9
 ```
 
@@ -48,7 +48,7 @@ $ ./exo5 5 9
 ```
 $ ls
 g h i j
-$ ./exo6 f g h i j
+$ ./ex6 f g h i j
 $ ls
 f1 f2 f3 f4
 ```
